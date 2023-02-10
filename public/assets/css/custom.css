@@ -1,0 +1,15 @@
+.login{
+    background: url(../image/login.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    opacity: 0.5;
+}
+
+form{
+    opacity: 1 !important;
+}
